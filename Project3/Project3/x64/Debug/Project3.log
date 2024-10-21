@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\vs2022代码\Project3\FileName.cpp(178,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Project3.vcxproj -> D:\vs2022代码\Project3\x64\Debug\Project3.exe
